@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroidTV测试</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="hello_world">你好，Android TV！</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="error">错误</string>
+    <string name="dismiss_error">关闭</string>
+    <string name="error_fragment_message">发生了一个错误！</string>
+    <string name="error_test_item">错误测试</string>
+</resources>
